@@ -3,4 +3,6 @@ the rainbow
 green
 yellow
 white
+black
 red
+blue
